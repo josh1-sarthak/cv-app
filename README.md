@@ -6,6 +6,7 @@ a cv maker web-app built with React comprising of following 3 sections:
 - educational experience (school name, title of study, date of study)
 - practical experience (company name, position title, main tasks of your jobs, date from and until when you worked for that company)
 
+It is implemented both in class as well as function components (hooks).
 
 ## Skills Demonstrated
 - React JS - class and functional components
@@ -13,3 +14,4 @@ a cv maker web-app built with React comprising of following 3 sections:
 - State
 - Handling and Rendering Inputs
 - Forms
+- hooks- useState
